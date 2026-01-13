@@ -38,7 +38,7 @@
 
 | Màn hình chính | Chi tiết món | Giỏ hàng | Lịch sử & Thanh toán |
 |:---:|:---:|:---:|:---:|
-| <img src="./screenshots/home.png" width="200"/> | <img src="./screenshots/detail.png" width="200"/> | <img src="./screenshots/cart.png" width="200"/> | <img src="./screenshots/history.png" width="200"/> |
+| <img src="./screenshots/home.png.png" width="200"/> | <img src="./screenshots/detail.png.png" width="200"/> | <img src="./screenshots/cart.png.png" width="200"/> | <img src="./screenshots/history.png.png" width="200"/> |
 ---
 
 ## 🛠️ Công nghệ sử dụng
