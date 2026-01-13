@@ -38,10 +38,7 @@
 
 | Màn hình chính | Chi tiết món | Giỏ hàng | Lịch sử & Thanh toán |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/home.png" width="200"/> | <img src="screenshots/detail.png" width="200"/> | <img src="screenshots/cart.png" width="200"/> | <img src="screenshots/history.png" width="200"/> |
-
-*(Lưu ý: Bạn cần chụp ảnh màn hình app và lưu vào thư mục `screenshots` trong project để hiển thị ảnh)*
-
+| <img src="./screenshots/home.png" width="200"/> | <img src="./screenshots/detail.png" width="200"/> | <img src="./screenshots/cart.png" width="200"/> | <img src="./screenshots/history.png" width="200"/> |
 ---
 
 ## 🛠️ Công nghệ sử dụng
