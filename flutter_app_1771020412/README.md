@@ -3,8 +3,7 @@
 > **Đồ án môn học:** Lập trình Mobile - Đề số 05
 > **Sinh viên:** Trần Văn Lâm
 > **Mã SV:** 1771020412
-> **Lớp:** [Điền lớp của bạn vào đây]
-
+> **Lớp:** CNTT 17-07
 ## 📱 Giới thiệu
 Ứng dụng quản lý đặt bàn và gọi món cho nhà hàng, được xây dựng bằng **Flutter** kết hợp với **Firebase (Firestore & Authentication)**. Ứng dụng hỗ trợ quy trình khép kín từ lúc Khách hàng đăng ký, xem menu, đặt bàn cho đến khi Admin duyệt đơn và Khách thanh toán tích điểm.
 
